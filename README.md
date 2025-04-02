@@ -1,0 +1,1 @@
+The code is necessary for working with the genetic patterns of Mendelian inheritance, returns Punnett squares of any size, and provides the genotype ratios for crosses. For any questions or modifications, contact gennady.val.borisenko@gmail.com.
